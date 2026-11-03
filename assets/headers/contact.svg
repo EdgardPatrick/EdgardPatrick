@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="64" viewBox="0 0 1000 64" role="img" aria-label="Connect"><title>Connect</title>
+  <text x="2" y="40" font-family="'JetBrains Mono','SF Mono','Cascadia Code','Fira Code',Consolas,'Liberation Mono',Menlo,monospace" font-size="14" fill="#39d353" letter-spacing="1">07</text>
+  <text x="36" y="40" font-family="'JetBrains Mono','SF Mono','Cascadia Code','Fira Code',Consolas,'Liberation Mono',Menlo,monospace" font-size="14" fill="#1d2a22">//</text>
+  <text x="96" y="41" font-family="'Inter','Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="22" font-weight="700" letter-spacing="3" fill="#e6edf3">CONNECT</text>
+  <line x1="243" y1="34" x2="998" y2="34" stroke="#1d2a22" stroke-width="1"/>
+  <circle cy="34" r="2.5" fill="#39d353">
+    <animate attributeName="cx" values="243;996" dur="5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.1;0.85;1" dur="5s" repeatCount="indefinite"/>
+  </circle>
+</svg>

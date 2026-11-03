@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="250" viewBox="0 0 1000 250" role="img" aria-label="TourTrail — A tourism and destination-tracking web app for exploring places and recording visits."><title>TourTrail — A tourism and destination-tracking web app for exploring places and recording visits.</title>
+  <defs><linearGradient id="edge" x1="0" x2="1">
+    <stop offset="0" stop-color="#39d353" stop-opacity="0"/><stop offset="0.5" stop-color="#39d353" stop-opacity="0.9"/>
+    <stop offset="1" stop-color="#39d353" stop-opacity="0"/></linearGradient>
+    <clipPath id="c"><rect width="1000" height="250" rx="16"/></clipPath></defs>
+  <g clip-path="url(#c)">
+    <rect width="1000" height="250" fill="#0a0d0b"/>
+    <rect y="0" width="220" height="1.5" fill="url(#edge)">
+      <animate attributeName="x" values="-220;1000" dur="7s" repeatCount="indefinite"/>
+    </rect>
+    <text x="970" y="224" text-anchor="end" font-family="'Inter','Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="120" font-weight="800" fill="#39d353" fill-opacity="0.04">01</text>
+  </g>
+  <rect x="0.5" y="0.5" width="999" height="249" rx="16" fill="none" stroke="#1d2a22"/>
+  <rect x="0" y="34" width="3" height="40" fill="#39d353"/>
+  <text x="40" y="44" font-family="'JetBrains Mono','SF Mono','Cascadia Code','Fira Code',Consolas,'Liberation Mono',Menlo,monospace" font-size="12" letter-spacing="2" fill="#39d353">01 <tspan fill="#8b949e">/ TOURISM &amp; HERITAGE PASSPORT · TEAM PROJECT</tspan></text>
+  <text x="40" y="78" font-family="'Inter','Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="28" font-weight="700" fill="#e6edf3">TourTrail</text>
+  <rect x="867" y="31" width="93" height="28" rx="14" fill="none" stroke="#1f6f2e"/>
+  
+  <text x="914" y="49" text-anchor="middle" font-family="'JetBrains Mono','SF Mono','Cascadia Code','Fira Code',Consolas,'Liberation Mono',Menlo,monospace" font-size="11" letter-spacing="1.5" fill="#39d353">FRONTEND</text>
+  <text x="40" y="108" font-family="'Inter','Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="15" fill="#8b949e">A tourism and destination-tracking web app for exploring places and recording visits.</text>
+  <rect x="64" y="126" width="6" height="6" fill="#39d353" transform="rotate(45 67 129)"/><text x="84" y="134" font-family="'Inter','Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="15" fill="#e6edf3" fill-opacity="0.86">Interactive, responsive destination map and the My Journeys interface</text><rect x="64" y="149" width="6" height="6" fill="#39d353" transform="rotate(45 67 152)"/><text x="84" y="157" font-family="'Inter','Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="15" fill="#e6edf3" fill-opacity="0.86">My Passport interface, plus QR/GPS check-in and scanner screens</text><rect x="64" y="172" width="6" height="6" fill="#39d353" transform="rotate(45 67 175)"/><text x="84" y="180" font-family="'Inter','Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="15" fill="#e6edf3" fill-opacity="0.86">Traveler profile details, destination buttons, and dark/light theme switching</text>
+  <rect x="40" y="206" width="132" height="26" rx="13" fill="#0f1512" stroke="#1d2a22"/><text x="106" y="223" text-anchor="middle" font-family="'JetBrains Mono','SF Mono','Cascadia Code','Fira Code',Consolas,'Liberation Mono',Menlo,monospace" font-size="12" fill="#8b949e">Interactive Map</text><rect x="182.0" y="206" width="132" height="26" rx="13" fill="#0f1512" stroke="#1d2a22"/><text x="248" y="223" text-anchor="middle" font-family="'JetBrains Mono','SF Mono','Cascadia Code','Fira Code',Consolas,'Liberation Mono',Menlo,monospace" font-size="12" fill="#8b949e">QR/GPS Check-in</text><rect x="324.0" y="206" width="139" height="26" rx="13" fill="#0f1512" stroke="#1d2a22"/><text x="394" y="223" text-anchor="middle" font-family="'JetBrains Mono','SF Mono','Cascadia Code','Fira Code',Consolas,'Liberation Mono',Menlo,monospace" font-size="12" fill="#8b949e">Digital Passport</text><rect x="473.2" y="206" width="139" height="26" rx="13" fill="#0f1512" stroke="#1d2a22"/><text x="543" y="223" text-anchor="middle" font-family="'JetBrains Mono','SF Mono','Cascadia Code','Fira Code',Consolas,'Liberation Mono',Menlo,monospace" font-size="12" fill="#8b949e">Dark/Light Theme</text>
+</svg>
